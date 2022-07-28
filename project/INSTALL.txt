@@ -1,0 +1,5 @@
+1. Run opam update, then opam install ANSITerminal yojson if either of these packages are not installed
+2. cd to the location where the game files are stored
+3. Run make play in the terminal to start the game
+4. Use the game_map.json file when prompted
+5. Enter in commands to play the game. Typing in "help" will show the available commands

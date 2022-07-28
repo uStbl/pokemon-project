@@ -1,0 +1,10 @@
+#require "oUnit";;
+#require "yojson";;
+#require "ANSITerminal";;
+#directory "_build";;
+#load "map.cmo";;
+#load "mapCommand.cmo";;
+#load "mapState.cmo";;
+#load "battleState.cmo";;
+#load "battleCommand.cmo;;
+#load "creature.cmo";;
